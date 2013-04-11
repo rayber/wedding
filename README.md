@@ -14,6 +14,8 @@ Hello friends, we cant wait to celebrate our wedding in gods own country on 29 A
 
 ### Programme
 
+The wedding ceremony will be traditional pentecostal marriage where both the bride and groom will be in white and white attire. You'll witness the modest ever marriage function. The ceremony would be having some songs followed by marriage function followed by a message by pastors. Once the marriage ceremony is over there'll be a wedding reception at Isola Di Cocco Resort, Poovar, Kerala.
+
 **Ceremony** *10:30 AM - 12:30 AM*
 The Pentecostal mission, Chaani, kerala
 
@@ -27,9 +29,11 @@ Vijeyetha Wedding Hall, Nagercoil, TamilNadu
 
 ------------------------
 
-### Travel inforatmion
+### Travel information
 
 #### Reaching Chaani
+
+[![Map](http://maps.google.com/maps/api/staticmap?center=8.333970,77.059736&zoom=14&markers=8.335159,77.059286&size=500x300&sensor=true)][1]
 
 **Airport**: The nearest Airport is Trivandrum (Thiruvananthapuram). Chaani is around 30kms from airport.  
 
@@ -39,7 +43,9 @@ Vijeyetha Wedding Hall, Nagercoil, TamilNadu
 
 
 #### Reaching Nagercoil
- 
+
+[![Map](http://maps.google.com/maps/api/staticmap?center=8.186514,77.426920&zoom=14&markers=8.188417,77.426167&size=500x300&sensor=true)][2]
+
 **Airport**: The nearest Airport is Trivandrum (Thiruvananthapuram). Nagercoil is around 73kms from airport.  
 
 **Train**: The nearest railway station is Nagercoil Junction (NCJ). You can get a auto to come into the city.
@@ -49,3 +55,6 @@ Vijeyetha Wedding Hall, Nagercoil, TamilNadu
 ------------------------
 
 [RSVP](https://github.com/rayber/wedding/issues)
+
+[1]: http://goo.gl/maps/szN2X
+[2]: http://goo.gl/maps/MMqW3
