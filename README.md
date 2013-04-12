@@ -16,7 +16,7 @@ Hello friends, we cant wait to celebrate our wedding in gods own country on 29 A
 
 The wedding ceremony will be traditional pentecostal marriage where both the bride and groom will be in white and white attire. You'll witness the modest ever marriage function. The ceremony would be having some songs followed by marriage function followed by a message by pastors. Once the marriage ceremony is over there'll be a wedding reception at Isola Di Cocco Resort, Poovar, Kerala.
 
-**Ceremony** *10:30 AM - 12:30 AM*
+**Ceremony** *10:30 AM - 12:30 PM*
 The Pentecostal mission, Chaani, kerala
 
 
