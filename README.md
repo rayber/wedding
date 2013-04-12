@@ -21,10 +21,12 @@ The Pentecostal mission, Chaani, kerala
 
 
 **Lunch** *12:30 PM - 2:30 PM*
+[![location](https://raw.github.com/rayber/wedding/master/images/location.png)][3]
 ISOLA DI COCCO Resort, Poovar, Kerala
 
 
 **Dinner** *6 PM - 9 PM*
+[![location](https://raw.github.com/rayber/wedding/master/images/location.png)][2]
 Vijeyetha Wedding Hall, Nagercoil, TamilNadu
 
 ------------------------
@@ -71,3 +73,4 @@ Padmanabapuram Palace of Travancore kingdom
 
 [1]: http://goo.gl/maps/szN2X
 [2]: http://goo.gl/maps/MMqW3
+[3]: http://goo.gl/maps/w4uns
