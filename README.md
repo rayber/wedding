@@ -1,12 +1,12 @@
 # Bubby weds Praylin
 **April 29, 2013**
-*Chani, Poovar, Kerala*
+*[![location](https://raw.github.com/rayber/wedding/master/images/location.png)][1]Chani, Poovar, Kerala*
 
 ------------------------
 
 ### Welcome
 
-![Bubby & Praylin](https://raw.github.com/rayber/wedding/master/bubby-and-praylin.jpg)
+![Bubby & Praylin](https://raw.github.com/rayber/wedding/master/images/bubby-and-praylin.jpg)
 
 Hello friends, we cant wait to celebrate our wedding in gods own country on 29 April 2013. We would love to have your gracious presence on this occassion. Please plan your travel and book tickets in advance and get ready for the party.  
 
@@ -51,6 +51,19 @@ Vijeyetha Wedding Hall, Nagercoil, TamilNadu
 **Train**: The nearest railway station is Nagercoil Junction (NCJ). You can get a auto to come into the city.
 
 **Bus**: The Nearest bus station is nagercoil town bus station. You can get a auto to get into the hotel.
+
+------------------------
+
+### Places to visit
+
+While you are in this beautiful part of the country, you should not miss experiencing the beauty around. As the wedding ceremony is on Monday, you can come a little early and visit these places on the weekend.
+
+![Places](https://raw.github.com/rayber/wedding/master/images/places.jpg)
+
+**Kanyakumari** - Confluence of three seas, Indian Ocean, Bay of Bengal and Arabian Sea. Thiruvalluvar statue and Vivekananda rock. Mathur Hanging Trough  
+**Awesome beaches** - Muttom, Sanguthurai, Sothavilai, Thengapattinam, Thekurrichi and a lot more.
+Padmanabapuram Palace of Travancore kingdom  
+**Kerala** - Shangumukham Beach, Kovalam Beach, Veli tourist village and Poovar Backwaters.
 
 ------------------------
 
